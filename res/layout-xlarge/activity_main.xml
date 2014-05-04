@@ -29,7 +29,7 @@
         android:rotation="-90"
         android:text="@string/arrow"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textSize="200dp"
+        android:textSize="300dp"
         android:layout_alignRight="@+id/textView6"
         android:layout_alignEnd="@+id/textView6"
         android:layout_alignParentLeft="true"
