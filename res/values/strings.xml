@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="arrow" translatable="false">➤</string>
+    <string name="zero_dgr" translatable="false">0.0°</string>
+    <string name="app_name">Compass</string>
+    <string name="pos_ans">OK</string>
+    <string name="about">About</string>
+    <string name="license1">Copyright © 2014 Emil Suleymanov</string>
+    <string name="license2">Distributed under the GNU GPL v3.</string>
+    <string name="license3">Source code is available at https://github.com/sssemil/Compass .</string>
+    <string name="S">S</string>
+    <string name="W">W</string>
+    <string name="E">E</string>
+    <string name="N">N</string>
+
+</resources>

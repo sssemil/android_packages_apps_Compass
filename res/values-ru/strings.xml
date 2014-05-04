@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Компасс</string>
+    <string name="pos_ans">Хорошо</string>
+    <string name="about">О программе</string>
+    <string name="license1">Copyright © 2014 Emil Suleymanov</string>
+    <string name="license2">Распространяется под GNU GPL v3.</string>
+    <string name="license3">Исходный код доступен на https://github.com/sssemil/Compass .</string>
+    <string name="S">Ю</string>
+    <string name="W">З</string>
+    <string name="E">В</string>
+    <string name="N">С</string>
+
+</resources>

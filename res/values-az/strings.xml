@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="E">Şə</string>
+    <string name="N">Şi</string>
+    <string name="S">C</string>
+    <string name="W">Q</string>
+    <string name="about">Proqram haqqında</string>
+    <string name="app_name">Kompas</string>
+    <string name="license2">GNU GPL v3 altında Paylanmış.</string>
+    <string name="license3">Programin kodu https://github.com/sssemil/Compass mövcuddur.</string>
+    <string name="pos_ans">Olsun</string>
+
+</resources>
