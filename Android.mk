@@ -5,6 +5,6 @@ LOCAL_MODULE_TAGS := optional
 
 LOCAL_SRC_FILES := $(call all-java-files-under, src)
 
-LOCAL_PACKAGE_NAME := Compass
+LOCAL_PACKAGE_NAME := Compass2
 
 include $(BUILD_PACKAGE)
