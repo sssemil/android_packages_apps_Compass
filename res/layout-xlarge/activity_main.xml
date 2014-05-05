@@ -13,13 +13,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
-        android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
         android:gravity="center"
         android:text="@string/zero_dgr"
-        android:textAppearance="?android:attr/textAppearanceMedium" />
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_alignParentBottom="true"
+        android:layout_alignTop="@+id/textView4" />
 
     <TextView
         android:id="@+id/textView2"
@@ -29,7 +28,7 @@
         android:rotation="-90"
         android:text="@string/arrow"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textSize="300dp"
+        android:textSize="350dp"
         android:layout_alignRight="@+id/textView6"
         android:layout_alignEnd="@+id/textView6"
         android:layout_alignParentLeft="true"
@@ -41,12 +40,13 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
         android:gravity="center"
         android:text="@string/N"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textSize="50dp" />
+        android:textSize="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/textView4"
+        android:layout_alignEnd="@+id/textView4" />
 
     <TextView
         android:id="@+id/textView4"
@@ -57,8 +57,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:textSize="50dp"
         android:layout_alignParentBottom="true"
-        android:layout_alignRight="@+id/textView3"
-        android:layout_alignEnd="@+id/textView3" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:id="@+id/textView5"
