@@ -18,23 +18,8 @@
         android:text="@string/zero_dgr"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_alignParentBottom="true"
-        android:layout_alignTop="@+id/textView4" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:rotation="-90"
-        android:text="@string/arrow"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textSize="200dp"
-        android:layout_alignRight="@+id/textView6"
-        android:layout_alignEnd="@+id/textView6"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentTop="true" />
+        android:layout_alignTop="@+id/textView4"
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:id="@+id/textView3"
@@ -82,4 +67,13 @@
         android:layout_alignTop="@+id/textView5"
         android:layout_alignRight="@+id/textView"
         android:layout_alignEnd="@+id/textView" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:rotation="-90"
+        android:src="@drawable/ic_"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>

@@ -8,12 +8,14 @@ import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
+import android.media.Image;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.animation.Animation;
 import android.view.animation.RotateAnimation;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
@@ -25,7 +27,7 @@ public class MainActivity extends Activity implements SensorEventListener {
 
     TextView tvHeading;
     // define the display assembly compass picture
-    private TextView comp;
+    private ImageView comp;
     // record the compass picture angle turned
     private float currentDegree = 0f;
     // device sensor manager
@@ -37,7 +39,7 @@ public class MainActivity extends Activity implements SensorEventListener {
         setContentView(R.layout.activity_main);
 
         //
-        comp = (TextView) findViewById(R.id.textView2);
+        comp = (ImageView) findViewById(R.id.imageView);
 
         // TextView that will tell the user what degree is he heading
         tvHeading = (TextView) findViewById(R.id.textView);
