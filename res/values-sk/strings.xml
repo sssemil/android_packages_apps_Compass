@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kompas</string>
+    <string name="pos_ans">OK</string>
+    <string name="about">O aplikácii</string>
+    <string name="license1">Autorské práva © 2014 Emil Suleymanov</string>
+    <string name="license2">Distribuované pod the GNU GPL v3.</string>
+    <string name="license3">Zdrojový kód je k dispozícii na https://github.com/sssemil/Compass.</string>
+    <string name="S">J</string>
+    <string name="W">Z</string>
+    <string name="E">V</string>
+    <string name="N">S</string>
+
+</resources>
