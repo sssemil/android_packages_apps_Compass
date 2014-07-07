@@ -1,15 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><!--
+     Copyright (c) 2014 Emil Suleymanov <suleymanovemil8@gmail.com>
+
+     This program is free software; you can redistribute it and/or
+     modify it under the terms of the GNU General Public License
+     as published by the Free Software Foundation; either version 2
+     of the License, or (at your option) any later version.
+
+     This program is distributed in the hope that it will be useful,
+     but WITHOUT ANY WARRANTY; without even the implied warranty of
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+     GNU General Public License for more details.
+
+     You should have received a copy of the GNU General Public License
+     along with this program; if not, write to the Free Software
+     Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+     MA  02110-1301, USA.
+-->
 <resources>
 
     <string name="app_name">Компас</string>
     <string name="pos_ans">Хорошо</string>
     <string name="about">О программе</string>
-    <string name="license1">Copyright © 2014 Emil Suleymanov</string>
+    <string name="license1">Все права защищены © 2014 Эмиль Сулейманов</string>
     <string name="license2">Распространяется под GNU GPL v3.</string>
-    <string name="license3">Исходный код доступен на https://github.com/sssemil/Compass .</string>
+    <string name="license3">Исходный код доступен на https://github.com/sssemil/Compass</string>
     <string name="S">Ю</string>
     <string name="W">З</string>
     <string name="E">В</string>
     <string name="N">С</string>
+    <string name="title_activity_sensor">Сенсор</string>
+    <string name="ok">Хорошо</string>
+    <string name="cancel">Отменить</string>
+    <string name="point_to">Указывать на</string>
+    <string name="def">Стандартный</string>
+    <string name="custom">Кастомные градусы…</string>
+    <string name="pined">Показать на карте…</string>
+    <string name="ent_cus_dgr">Введите кастомные градусы</string>
+    <string name="offset_text">Смещение:</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="welcome_text">Спасибо за установку моего приложения!\nЗнайте, что стрелка долгонажимаема :)</string>
+    <string name="settings">Настройки</string>
+    <string name="other">Другое</string>
+    <string name="dip_angle">Угол наклонения</string>
+    <string name="custom_arrow_direction">Другое направление стрелки</string>
+    <string name="general">Общие</string>
+    <string name="pref_title_build_version">Версия сборки</string>
+    <string name="gps_is_disabled_enable">GPS на вашем устройстве отключён. Хотите включить?</string>
+    <string name="go_set_gps">Пойти в настройки, чтобы включить GPS</string>
+    <string name="gps_dis_warn">●GPS отключен, использую последнии известные координаты!</string>
+    <string name="true_n">Истинный север</string>
+    <string name="true_n_summary">Указывать на истинный север, а не на магнитный</string>
 
 </resources>
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardinal_directions">
+        <item>N</item>
+        <!-- North -->
+        <item>NW</item>
+        <!-- North east -->
+        <item>W</item>
+        <!-- East -->
+        <item>SW</item>
+        <!-- South east -->
+        <item>S</item>
+        <!-- South -->
+        <item>SO</item>
+        <!-- South west -->
+        <item>O</item>
+        <!-- West -->
+        <item>NO</item>
+        <!-- North west -->
+    </string-array>
+</resources>

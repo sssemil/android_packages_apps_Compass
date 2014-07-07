@@ -1,3 +1,21 @@
+<!--
+     Copyright (c) 2014 Emil Suleymanov <suleymanovemil8@gmail.com>
+
+     This program is free software; you can redistribute it and/or
+     modify it under the terms of the GNU General Public License
+     as published by the Free Software Foundation; either version 2
+     of the License, or (at your option) any later version.
+
+     This program is distributed in the hope that it will be useful,
+     but WITHOUT ANY WARRANTY; without even the implied warranty of
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+     GNU General Public License for more details.
+
+     You should have received a copy of the GNU General Public License
+     along with this program; if not, write to the Free Software
+     Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+     MA  02110-1301, USA.
+-->
 <resources>
 
     <string name="E">Şə</string>
@@ -9,5 +27,23 @@
     <string name="license2">GNU GPL v3 altında Paylanmış.</string>
     <string name="license3">Programin kodu https://github.com/sssemil/Compass mövcuddur.</string>
     <string name="pos_ans">Olsun</string>
-
+    <string name="ok">Yaxşı</string>
+    <string name="cancel">Yox</string>
+    <string name="point_to">Nəyə baxmağ</string>
+    <string name="def">Standart</string>
+    <string name="custom">Xüsusi dərəcə…</string>
+    <string name="pined">Xəritədə göstərmək…</string>
+    <string name="ent_cus_dgr">Xüsusi dərəcəsi daxil edin</string>
+    <string name="offset_text">Əvəzləşdirmə:</string>
+    <string name="welcome">Xoş gəlmisiniz</string>
+    <string name="settings">Parametrlər</string>
+    <string name="dip_angle">Cummaqın bucağı</string>
+    <string name="custom_arrow_direction">Custom arrow direction</string>
+    <string name="general">General</string>
+    <string name="pref_title_build_version">Buildın versiyası</string>
+    <string name="gps_is_disabled_enable">GPS is disabled in your device. Would you like to enable it?</string>
+    <string name="go_set_gps">Go to Settings Page To Enable GPS</string>
+    <string name="gps_dis_warn">●GPS is disabled, using last known location!</string>
+    <string name="true_n">True north</string>
+    <string name="true_n_summary">Show to true north instead of magnetic north</string>
 </resources>

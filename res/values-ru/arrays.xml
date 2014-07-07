@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardinal_directions">
+        <item>С</item>
+        <!-- North -->
+        <item>СЗ</item>
+        <!-- North east -->
+        <item>З</item>
+        <!-- East -->
+        <item>ЮЗ</item>
+        <!-- South east -->
+        <item>Ю</item>
+        <!-- South -->
+        <item>ЮВ</item>
+        <!-- South west -->
+        <item>В</item>
+        <!-- West -->
+        <item>СВ</item>
+        <!-- North west -->
+    </string-array>
+</resources>

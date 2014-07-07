@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardinal_directions">
+        <item>Şi</item>
+        <item>ŞiQ</item>
+        <item>Q</item>
+        <item>CQ</item>
+        <item>C</item>
+        <item>CŞə</item>
+        <item>Şə</item>
+        <item>ŞiŞə</item>
+    </string-array>
+</resources>
