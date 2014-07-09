@@ -66,10 +66,6 @@ public class Settings extends PreferenceActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Tracker t = ((Analytics) getApplication()).getTracker(
-                Analytics.TrackerName.APP_TRACKER);
-        t.setScreenName("Settings");
-        t.send(new HitBuilders.AppViewBuilder().build());
         addPreferencesFromResource(R.xml.settings);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
             getActionBar().setDisplayHomeAsUpEnabled(true);

@@ -194,10 +194,6 @@ public class MainActivity extends Activity implements
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         super.setTheme(R.style.AppTheme);
-        Tracker t = ((Analytics) getApplication()).getTracker(
-                Analytics.TrackerName.APP_TRACKER);
-        t.setScreenName("MainActivity");
-        t.send(new HitBuilders.AppViewBuilder().build());
         PREFS_NAME = getPackageName() + "_preferences";
         mSettings = getSharedPreferences(PREFS_NAME, 0);
         setContentView(R.layout.activity_main);
